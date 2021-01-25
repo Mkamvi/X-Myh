@@ -1,3 +1,5 @@
-### Hey, See you again.
+### Hey, see you again.
 
-- 🌱 I’m currently focusing on CSS.
+- 📚 I'm reading Introduction to Algorithms.
+- 🥚 I'm planning to simplify the algorithm by visualization.
+- 🐚 I’m currently focusing on CSS.
