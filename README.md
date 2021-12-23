@@ -1,5 +1,7 @@
 Hey, I'm X·M.
 
+🏄🏼‍♂️ I am busy building my knowledge system.
+
 👊 Focus on the FE, but not limited to the FE.
 
 🏃 Just try something different.
