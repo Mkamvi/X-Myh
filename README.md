@@ -6,5 +6,5 @@ Hey, I'm X·M.
 
 🏃 Just try something different.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iWuzhi&theme=blue-green&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=X-Myh&theme=blue-green&show_icons=true)
                                                  
